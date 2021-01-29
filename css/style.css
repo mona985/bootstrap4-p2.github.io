@@ -80,6 +80,17 @@ footer i {
 	color: #fff;
 }
 
+@media (max-width: 576px) {
+
+	.service {
+		color: #000;
+	}
+
+	.services h2.section-heading {
+		color: #000 !important;
+	}
+}
+
 .service h3 {
 	font-weight: 700;
 }
