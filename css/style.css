@@ -1,0 +1,123 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	background-image: url('../images/vecteezy_background-floral_hk0121.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+a {
+	color: #2c363f;
+}
+
+/*navbar*/
+.navbar-brand {
+	font-size: 1.5rem;
+	font-weight: 700;
+	color: #b3dfec;
+}
+
+.navbar-brand span:first-of-type {
+	color: #FFF;
+}
+
+.navbar-brand span:last-of-type {
+	color: #E75a7c;
+}
+
+a.nav-link {
+	font-size: 1.1rem;
+	font-weight: 400;
+	color: #0b4656 !important;
+	font-weight: 900;
+}
+
+/*hero*/
+.hero-content {
+	margin-top: 4rem;
+}
+
+.hero-content h1 {
+	font-weight: 900;
+	font-size: 3.5rem;
+}
+
+.hero-content h3 {
+	font-weight: 700;
+}
+
+.social-icons-hero i,
+footer i {
+	display: inline-block;
+	border: 1px solid #fff;
+	border-radius: 50%;
+}
+
+.social-icons-hero i {
+	color: hotpink;
+	background-color: #fff;
+}
+
+/*About Us*/
+.section-heading {
+	font-weight: 700;
+	font-size: 3.5rem;
+	color: #fff;
+}
+
+.about .section-heading {
+	color: #000;
+}
+
+.btn-main {
+	background-color: #2c363f;
+	color: #FFF;
+	font-size: 1.3rem;
+}
+
+/*Services*/
+.service {
+	border-radius: 2rem;
+	color: #fff;
+}
+
+.service h3 {
+	font-weight: 700;
+}
+
+.service i {
+	font-size: 2rem;
+}
+
+/*Contact*/
+.contact input,
+.contact textarea {
+	padding: 1rem 0.4rem;
+	font-size: 1.3rem;
+	width: 100%;
+	border-radius: 1.2rem;
+	border: 1px solid #0f0;
+}
+
+.contact label {
+	font-size: 1.2rem;
+	font-weight: 600;
+	color: #fff;
+}
+
+.contact button {
+	background: transparent;
+	border: 2px solid #0f0;
+	border-radius: 1.1rem;
+	margin-top: 8px;
+}
+
+/*Footer*/
+footer,
+footer a {
+	color: #fff;
+}
+
+footer i {
+	background-color: #91e19a;
+	color: #0c4455;
+}
